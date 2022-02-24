@@ -1,4 +1,4 @@
-![The Well App](untangler.png)
+![Untangler](untangler.jpeg)
 
 <div align='center'>
   
