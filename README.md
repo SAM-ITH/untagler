@@ -74,7 +74,7 @@ Quick Links
 
 
 # 🌟 Screenshots 
-| ![The Well App](Screenshots/Simulator Screen Shot - iPhone 8 - 2022-02-24 at 17.18.00.png)	|   	|   	|   	|   	|
+|     |   	|   	|   	|   	|
 |---	|---	|---	|---	|---	|
 |   	|   	|   	|   	|   	|
  	
