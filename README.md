@@ -49,7 +49,7 @@ Quick Links
 
 ### The Untangler app is available for beta test in testflight 🥳 🚀
 
-- install the testflight and redeem the app from following link [https://well-app.netlify.app](https://well-app.netlify.app).
+- install the testflight and redeem the app from following link [Testflight](https://testflight.apple.com/join/wmZyBeT3).
 
 ---
 
@@ -69,41 +69,28 @@ Quick Links
 
 # 🧐 About project
 
-> Untangler is a line game app
+> 
+Untangled is game its based on clear the mess of lines with the minimum amount of movements. By correcting the nodes that attached the lines. Score is given according to the movements you are using for correction of the nodes. Each level is getting harder when you advance through the levels. This is a Personal project done by using UIKit. layout is created by using programmatic way.
 
 
-**Read more about the Well app on [the project homepage](https://projects.colegaw.in/well-app?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme).**
 
 
 # 🌟 Screenshots 
-|     |   	|   	|   	|   	|
+|  ![Untangler](Screenshots/sc1.png)   |   ![Untangler](Screenshots/sc2.png)	|   ![Untangler](Screenshots/sc3.png)	|   ![Untangler](Screenshots/sc4.png)	|   ![Untangler](Screenshots/sc1.png)	|
 |---	|---	|---	|---	|---	|
 |   	|   	|   	|   	|   	|
  	
 
-
 # 👨‍💻 Tech stack
 
-Here's a brief high-level overview of the tech stack the Well app uses:
+Here's a brief overview of the tech stack the Tangler uses:
 
-- This project uses the [Flutter app development framework](https://flutter.dev/). Flutter is a cross-platform hybrid app development platform which allows us to use a single codebase for apps on mobile, desktop, and the web.
-- For persistent storage (database), the app uses the [Hive](https://hivedb.dev/) package which allows the app to create a custom storage schema and save it to a local database.
-- To send local push notifications, the app uses the [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) package which supports Android, iOS, and macOS.
-  - 🚨 Currently, notifications aren't working on macOS. This is a known issue that we are working to resolve!
-- The app uses the font ["Work Sans"](https://fonts.google.com/specimen/Work+Sans) as its main font, and the design of the app adheres to the material design guidelines.
-
-For more information on the technologies that power the Well app, check out the [Tech Stack](https://github.com/chroline/well_app/wiki/Tech-Stack) page on our wiki.
-
-# ✍️ Contributing
-
-Interested in contributing to the Well app project? Thanks so much for your interest! We are always looking for improvements to the project and contributions from open-source developers are greatly appreciated.
-
-If you have a contribution in mind, please check out our [Contribution Guide](https://github.com/chroline/well_app/wiki/Contribution-Guide) for information on how to do so. Also, make sure you read our [Code of Conduct](https://github.com/chroline/well_app/wiki/Code-of-Conduct) to foster an encouraging sense of community.
+- UIKit
+-  Core graphics
+- Functional programming
+- Layout building - programmatic way
 
 
-# ⚠️ License
-
-The Well app is free and open-source software licensed under the GNU General Public License v3.0. All designs were created by [Cole Gawin](https://github.com/chroline) and distributed under Creative Commons license (CC BY-SA 4.0 International).
 
 <br />
 
